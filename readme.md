@@ -8,7 +8,7 @@
  - [grad_boosting_explainability](https://colab.research.google.com/drive/18igZ1e6J6r0tVBumsi-RHm_rq3T9Jh07?usp=sharing)
  - [pytorch_simple_nn](https://colab.research.google.com/drive/18Hhu7SbYxWX8VfQqCbjCIYwL3t68lcIo?usp=sharing )
  - [CNNs](https://colab.research.google.com/drive/1BHx5gVOu8q9gsaFPg26IAGjXv-EX679G?usp=sharing)
- - [NN_methods]([http://example.com/](https://colab.research.google.com/drive/1BHx5gVOu8q9gsaFPg26IAGjXv-EX679G?usp=sharing))
+ - [NN_methods]([http://example.com/](https://colab.research.google.com/drive/1BHx5gVOu8q9gsaFPg26IAGjXv-EX679G?usp=sharing)
  - [Segmentation_autoencoders](https://colab.research.google.com/drive/1lWVCF55bBf9gAwOVdf6OU5MSeN5AXn2b?usp=sharing)
  - [GANs_RNNs](https://colab.research.google.com/drive/1wnanzBAaZhpwYpFxSYGbisnSg0uxnt8w?usp=sharing)
  - [Механизмы внимания и трансформеры](https://colab.research.google.com/drive/1TgJr1u0XAEmlme4EwEugPbNWcs5ENxcI?usp=sharing)
